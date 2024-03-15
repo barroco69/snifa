@@ -17,12 +17,10 @@ Before running this program, ensure that you have the following dependencies ins
 
 - [python-nmap](https://pypi.org/project/python-nmap/)
 - [pysqlite3](https://pypi.org/project/pysqlite3/)
-- [pycvesearch](https://pypi.org/project/pycvesearch/)
-- [scapy](https://pypi.org/project/scapy/)
 
 You can install these dependencies using pip:
 
-`pip install python-nmap pysqlite3 pycvesearch scapy`
+`pip install python-nmap pysqlite3`
 
 
 ## Installation
