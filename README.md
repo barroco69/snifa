@@ -26,7 +26,7 @@ You can install these dependencies using pip:
 ## Installation
 1. Clone the repository:
 
-`git clone https://github.com/yourusername/snifa.git`
+`git clone https://github.com/barroco69/snifa.git`
 
 `cd snifa`
 
