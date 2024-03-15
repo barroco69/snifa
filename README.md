@@ -9,6 +9,8 @@ This project is for testing and educational purposes. Use it only against your o
 SNIFA! SNIFA... is a Python program for network scanning using the Nmap tool.
 It allows users to perform host/network and port scans, retrieve information about live hosts, and save scan results to a SQLite database.
 
+<img src="InitialScreenMenu.png">
+
 ## Dependencies
 
 Before running this program, ensure that you have the following dependencies installed:
@@ -35,10 +37,5 @@ You can install these dependencies using pip:
 To start the program: (sudo is needed for all features to work)
 
 `sudo python snifa.py`
-
-
-To view the visual report:
-
-`sudo python snifa.py -v`
 
 
