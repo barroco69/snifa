@@ -17,10 +17,13 @@ Before running this program, ensure that you have the following dependencies ins
 
 - [python-nmap](https://pypi.org/project/python-nmap/)
 - [pysqlite3](https://pypi.org/project/pysqlite3/)
+- [pyfiglet](https://pypi.org/project/pyfiglet)
 
 You can install these dependencies using pip:
 
-`pip install python-nmap pysqlite3`
+`pip install python-nmap pysqlite3 pyfiglet`
+
+(NOTE: you also need to have NMAP installed)
 
 
 ## Installation
