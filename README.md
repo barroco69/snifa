@@ -9,7 +9,7 @@ This project is for testing and educational purposes. Use it only against your o
 SNIFA! SNIFA... is a Python program for network scanning using the Nmap tool.
 It allows users to perform host/network and port scans, retrieve information about live hosts, and save scan results to a SQLite database.
 
-<img src="InitialScreenMenu.png">
+<img src="https://github.com/barroco69/snifa/assets/73498277/7b160b25-4974-47d6-84e7-acdcbed6bb54">
 
 ## Dependencies
 
